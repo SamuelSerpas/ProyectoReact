@@ -1,2 +1,8 @@
 Prueba desde Git
+<<<<<<< HEAD
 prueba aserpas
+=======
+
+
+Estoy practicando en lo que hare mañana voy a seguir haciendolo porque sino puede que salga mal
+>>>>>>> 1f0e0da9491462d3a077ca4bb5d81b7755eb0db8
